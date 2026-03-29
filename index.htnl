@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Muhammad Hamisu - Portfolio</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+
+    <header>
+      <h1>Muhammad Hamisu</h1>
+      <p>Software Engineer | Entrepreneur | Future Leader</p>
+    </header>
+
+    <section id="about">
+      <h2>About Me</h2>
+      <p>I am a 300 level Software Engineering student at Kano. 
+      I am passionate about technology, business and serving my country Nigeria with sincerity.</p>
+    </section>
+
+    <section id="skills">
+      <h2>My Skills</h2>
+      <p>JavaScript | C++ | HTML | CSS</p>
+    </section>
+
+    <section id="vision">
+      <h2>My Vision</h2>
+      <p>To become a successful entrepreneur and leader who serves Nigeria and the Muslim Ummah with truth and integrity.</p>
+    </section>
+<section id="projects">
+  <h2>My Projects</h2>
+  <divclass="project">
+    <h3>My Journey Page</h3>
+    <p>My first ever webpage built with HTML, CSS and JavaScript. 
+    The beginning of my journey to change Nigeria.</p>
+  </div>
+</section>
+ <section id="contact">
+  <h2>Contact Me</h2>
+  <p>Email: muhammadhameesu003@gmail.com</p>
+  <p>Location: Kano, Nigeria</p>
+  <p>Goal: Building technology that serves Nigeria and the Muslim Ummah</p>
+</section>
+  </body>
+</html>
+
